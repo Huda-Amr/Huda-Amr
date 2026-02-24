@@ -1,11 +1,13 @@
 Hi, I'm Huda Amr 👋
 
-👤 About me
-🎓 Major: computer Science
-🏫 University: Sadat City University
-📊 Current Focus: Data Analysis & Problem Solving
-📚 Learning: Data & Ai fundamentals
-🧠 Passionate about turning raw data into meaningful insights
+---
+
+## 👤 About Me  
+🎓 Major: Computer Science  
+🏫 University: Sadat City University  
+📊 Current Focus: Data Analysis & Problem Solving  
+📚 Learning: Data & AI Fundamentals  
+🧠 Passionate about turning raw data into meaningful insights  
 🚀 Always building real-world data projects
 
 

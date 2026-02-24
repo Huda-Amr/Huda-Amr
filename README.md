@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Huda Amr 👋
 
-<!--
-**Huda-Amr/Huda-Amr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 About me
+🎓 Major: computer Science
+🏫 University: Sadat City University
+📊 Current Focus: Data Analysis & Problem Solving
+📚 Learning: Data & Ai fundamentals
+🧠 Passionate about turning raw data into meaningful insights
+🚀 Always building real-world data projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 My Skills
+🐍 Python (Pandas, NumPy)
+🗄 SQL
+📊 Power BI
+📈 Excel
+📂 Data Cleaning & Visualization
+

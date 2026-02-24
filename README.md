@@ -21,3 +21,9 @@
 ## 🧰 Other Skills
 [![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C63FF?style=for-the-badge)](#) [![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FF6F61?style=for-the-badge)](#) [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00C2FF?style=for-the-badge)](#)
 
+---
+
+## 💻 Competitive Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-Huda_Amr-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Huda_Amr/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-CP_is_lie-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CP_is_lie)
+

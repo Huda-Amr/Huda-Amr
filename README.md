@@ -21,12 +21,3 @@
 ## 🧰 Other Skills
 [![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C63FF?style=for-the-badge)](#) [![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FF6F61?style=for-the-badge)](#) [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00C2FF?style=for-the-badge)](#)
 
----
-
-## 🏆 Achievements & Certifications
-[![DataCamp](https://img.shields.io/badge/DataCamp-Certificate-brightgreen?style=for-the-badge)](#) [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-blue?style=for-the-badge)](#)
-
----
-
-## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-hudaamr2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hudaamr2006@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-huda-amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huda-amr/) [![X](https://img.shields.io/badge/X-@_b_utterfl_y_-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_b_utterfl_y_)
